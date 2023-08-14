@@ -1,4 +1,4 @@
-Wine Classification Project
+# Wine Classification Project
 
 This repository contains code for classifying wines as "good" (rating > 5) or "bad" (rating <= 5) based on chemical compositions. The dataset is from Kaggle and includes red and white wines.
 
