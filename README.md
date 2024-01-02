@@ -24,4 +24,6 @@ Clone: git clone https://github.com/akshayut1998/Wine-Classification-Project.git
 
 ### Acknowledgments
 
+This was a group project undertaken with the rest of my team - Sharan Arora, Eeshana Hamed
+
 Dataset from https://www.kaggle.com/datasets/ruthgn/wine-quality-data-set-red-white-wine
